@@ -10,7 +10,7 @@ function resetGame () {
         jediArray: [
             {
                 jediName : "Anakin",
-                jediPic : "assets/images/anakinR.png",
+                jediPic : "assets/images/anakin_R.png",
                 jediHP : 110,
                 atkPower : 12,
                 defPower : 20,
