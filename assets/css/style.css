@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+
+.jumbotron{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/background.jpg");
+    background-size: cover;
+}
+
+.jumbo_text{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+#titleSpecial{
+    padding: 0px 0px 20px 0px;
+}
+
+.bbSpecial{
+    padding: 20px 0px 20px 0px;
+}
+
+img {
+	height: 100px;
+	width: 150px;
+	border-radius: 10px;
+}
+
+.character {
+	display: inline-block;
+	border-style: solid;
+	border-color: red;
+	border-width: 3px;
+	cursor: pointer;
+	background-color: white;
+}
+
+.charPic {
+	padding-right: 16px;
+	padding-left: 16px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.charName {
+    text-align: center;
+    color: black;
+ }
+
+.charHP {
+    text-align: center;
+    color: black;
+}
+
+.dead {
+    background-color: red;
+}
+
+.atkButton {
+    vertical-align: middle;
+    margin-top: 80px;
+}
